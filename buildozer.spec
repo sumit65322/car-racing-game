@@ -46,4 +46,4 @@ android.sdk = 31
 android.ndk = 25b
 
 # (str) Android NDK API to use
-android.ndk_api = 21
+android.ndk_api = 24
