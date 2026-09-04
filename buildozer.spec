@@ -37,7 +37,7 @@ fullscreen = 0
 android.api = 31
 
 # (str) Minimum API required
-android.minapi = 21
+android.minapi = 24
 
 # (str) Android SDK version to use
 android.sdk = 31
